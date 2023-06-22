@@ -6,7 +6,7 @@ end
 
 class Keyboard < Instrument
   def write
-    puts 'Writing first'
+    puts 'Writing keyboard'
     super
   end
 end

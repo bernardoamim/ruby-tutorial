@@ -11,13 +11,13 @@ end
 class Dog < Animal
   def bark
     puts 'Ouf ouf!'
-  end  
+  end
 end
 
 class Cat < Animal
   def meow
     puts 'meow!'
-  end  
+  end
 end
 
 dog = Dog.new
